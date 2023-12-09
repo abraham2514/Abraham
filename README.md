@@ -131,7 +131,7 @@ Elle a été réaliser en trois étapes :
 #### Installation de Superset à l'aide de Docker
 #### Connexion de Superset à la base de données
 #### Création de deux Dashboards, un pour chaque capteur.
-Instructions d'Utilisation
+
 
 ***
 
