@@ -132,10 +132,24 @@ Elle a été réaliser en trois étapes :
 #### Connexion de Superset à la base de données
 #### Création de deux Dashboards, un pour chaque capteur.
 
+# VISIONNAGE DE QUELQUES IMAGES OBTENUES
 
 ***
-
 ***
+## Dashbord du capteur smart_188
+![IMAGE DU CAPTEUR SMART 188](images_dashbord/smart_188.jpg)
+***
+***
+## Dashbord du capteur smart_189
+![IMAGE DU CAPTEUR SMART 188](images_dashbord/smart_189.jpg)
+***
+***
+## QUELQUE COMMENTAIRES DE MES DASHBORDS
+
+*  Les tableaux de bord montrent que nos capteurs effectuent 168 enregistrements par semaine. Cependant, pour **la dernière semaine du mois de janvier 2023**, nos capteurs n'ont **enregistré que 35 enregistrements.**
+*  Pour le capteur smart_188, le **taux de carbone** connais une **chute brusque** entre les mois de fevrier et mars 2023  
+
+
 ***
 ## EN CONCLUSION
 La réalisation de ce projet a été une expérience enrichissante qui m'a permis de mettre en évidence mes connaissances existantes tout en développant de nouvelles compétences. Au fil de ce parcours, j'ai pu démontrer ma capacité à concevoir, planifier et exécuter un projet de manière autonome, en intégrant des concepts que j'avais acquis précédemment.
